@@ -1,0 +1,14 @@
+[
+    {
+        "Version": "kubearmor/kubearmor-systemd-idt:1.4.6_linux-amd64",
+        "MD5": "2f95a60e576ad021ff362b28a0e3c37c"
+    },
+    {
+        "Version": "kubearmor/kubearmor-systemd-idt:1.4.4_linux-amd64",
+        "MD5": "755e24aedf7e12bac08bba0fd5f12122"
+    },
+    {
+        "Version": "kubearmor/kubearmor-systemd-idt:1.3.8_linux-amd64",
+        "MD5": "fd4f530bb0da5724cfa6770ba30d703e"
+    }
+]
